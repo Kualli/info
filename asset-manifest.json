@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Kualli/info/static/css/main.d1b05096.chunk.css",
-    "main.js": "/Kualli/info/static/js/main.bb322eba.chunk.js",
-    "main.js.map": "/Kualli/info/static/js/main.bb322eba.chunk.js.map",
-    "runtime-main.js": "/Kualli/info/static/js/runtime-main.4c599f0d.js",
-    "runtime-main.js.map": "/Kualli/info/static/js/runtime-main.4c599f0d.js.map",
-    "static/js/2.3ba1be89.chunk.js": "/Kualli/info/static/js/2.3ba1be89.chunk.js",
-    "static/js/2.3ba1be89.chunk.js.map": "/Kualli/info/static/js/2.3ba1be89.chunk.js.map",
-    "index.html": "/Kualli/info/index.html",
-    "precache-manifest.d2c3b7174e490ac0d86d3c4991e13862.js": "/Kualli/info/precache-manifest.d2c3b7174e490ac0d86d3c4991e13862.js",
-    "service-worker.js": "/Kualli/info/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/Kualli/info/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.3ba1be89.chunk.js.LICENSE.txt": "/Kualli/info/static/js/2.3ba1be89.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Kualli/info/static/media/logo.5d5d9eef.svg"
+    "main.css": "/info/static/css/main.d1b05096.chunk.css",
+    "main.js": "/info/static/js/main.98e6b557.chunk.js",
+    "main.js.map": "/info/static/js/main.98e6b557.chunk.js.map",
+    "runtime-main.js": "/info/static/js/runtime-main.354cf996.js",
+    "runtime-main.js.map": "/info/static/js/runtime-main.354cf996.js.map",
+    "static/js/2.3ba1be89.chunk.js": "/info/static/js/2.3ba1be89.chunk.js",
+    "static/js/2.3ba1be89.chunk.js.map": "/info/static/js/2.3ba1be89.chunk.js.map",
+    "index.html": "/info/index.html",
+    "precache-manifest.3d3815acc08e76091dc8de4a1e9c1db9.js": "/info/precache-manifest.3d3815acc08e76091dc8de4a1e9c1db9.js",
+    "service-worker.js": "/info/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/info/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3ba1be89.chunk.js.LICENSE.txt": "/info/static/js/2.3ba1be89.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/info/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c599f0d.js",
+    "static/js/runtime-main.354cf996.js",
     "static/js/2.3ba1be89.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.bb322eba.chunk.js"
+    "static/js/main.98e6b557.chunk.js"
   ]
 }
