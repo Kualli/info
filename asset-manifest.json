@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Kualli/info.git/static/css/main.d1b05096.chunk.css",
-    "main.js": "/Kualli/info.git/static/js/main.7350c18f.chunk.js",
-    "main.js.map": "/Kualli/info.git/static/js/main.7350c18f.chunk.js.map",
-    "runtime-main.js": "/Kualli/info.git/static/js/runtime-main.6521e2c5.js",
-    "runtime-main.js.map": "/Kualli/info.git/static/js/runtime-main.6521e2c5.js.map",
-    "static/js/2.3ba1be89.chunk.js": "/Kualli/info.git/static/js/2.3ba1be89.chunk.js",
-    "static/js/2.3ba1be89.chunk.js.map": "/Kualli/info.git/static/js/2.3ba1be89.chunk.js.map",
-    "index.html": "/Kualli/info.git/index.html",
-    "precache-manifest.1c5de38c687f00cc6c688d4d6983fb31.js": "/Kualli/info.git/precache-manifest.1c5de38c687f00cc6c688d4d6983fb31.js",
-    "service-worker.js": "/Kualli/info.git/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/Kualli/info.git/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.3ba1be89.chunk.js.LICENSE.txt": "/Kualli/info.git/static/js/2.3ba1be89.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Kualli/info.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Kualli/info/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Kualli/info/static/js/main.bb322eba.chunk.js",
+    "main.js.map": "/Kualli/info/static/js/main.bb322eba.chunk.js.map",
+    "runtime-main.js": "/Kualli/info/static/js/runtime-main.4c599f0d.js",
+    "runtime-main.js.map": "/Kualli/info/static/js/runtime-main.4c599f0d.js.map",
+    "static/js/2.3ba1be89.chunk.js": "/Kualli/info/static/js/2.3ba1be89.chunk.js",
+    "static/js/2.3ba1be89.chunk.js.map": "/Kualli/info/static/js/2.3ba1be89.chunk.js.map",
+    "index.html": "/Kualli/info/index.html",
+    "precache-manifest.d2c3b7174e490ac0d86d3c4991e13862.js": "/Kualli/info/precache-manifest.d2c3b7174e490ac0d86d3c4991e13862.js",
+    "service-worker.js": "/Kualli/info/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Kualli/info/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3ba1be89.chunk.js.LICENSE.txt": "/Kualli/info/static/js/2.3ba1be89.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Kualli/info/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6521e2c5.js",
+    "static/js/runtime-main.4c599f0d.js",
     "static/js/2.3ba1be89.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.7350c18f.chunk.js"
+    "static/js/main.bb322eba.chunk.js"
   ]
 }
